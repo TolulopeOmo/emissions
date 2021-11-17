@@ -1,15 +1,15 @@
+
 # Problem Summary:
-Products create different impacts depending on what they are made of, what energy source they use, and where they are manufactured. Arbor is currently working on an engine to allow businesses to calculate an estimated impact of their apparel products. One key piece of this engine is the mapping between country of origin and material. Built an algorithm, using Python to create an estimate of the impact of each material, in each country. 
+Depending on what they're composed of, what energy source they use, and where they're made, products have diverse effects. This project aims to develop an engine that will allow businesses to quantify the impact of apparel products. The mapping between country of origin and material is an important part of this engine. Created a Python-based method to estimate the impact of each material in each country.
 
 
 Data Source:
 https://ourworldindata.org/
 
 Datasets:
-Synthetic fibres and emissions caused in yarn prep
+Synthetic fibres and emissions caused in yarn prep and 
 Electricity production source.
 
-Output
 
 
 
